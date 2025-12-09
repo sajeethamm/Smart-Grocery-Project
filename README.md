@@ -1,2 +1,2 @@
-# Smart-Grocery-Project
+# Smart-Grocery-Shopping-Assistant
 EEX6340_MiniProject
